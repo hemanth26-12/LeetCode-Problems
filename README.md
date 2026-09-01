@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
