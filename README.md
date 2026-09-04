@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
