@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 ## String
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
