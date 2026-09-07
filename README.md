@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -47,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
