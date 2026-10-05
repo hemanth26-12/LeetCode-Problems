@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [2396-strictly-palindromic-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [2396-strictly-palindromic-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
