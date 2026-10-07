@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
