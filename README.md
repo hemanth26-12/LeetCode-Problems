@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [1688-count-of-matches-in-tournament](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [3870-count-commas-in-range](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
