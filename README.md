@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hemanth26-12/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
